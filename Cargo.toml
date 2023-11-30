@@ -10,7 +10,7 @@ documentation = "https://github.com/HarrisonHemstreet/qllm/blob/main/README.md"
 readme = "README.md"
 homepage = "https://github.com/HarrisonHemstreet/qllm"
 repository = "https://github.com/HarrisonHemstreet/qllm"
-keywords = ["LLM", "Ollama", "AI", "ML", "DL", "Chat bot", "CLI"]
+keywords = ["LLM", "Ollama", "AI", "Chat bot", "CLI"]
 license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
