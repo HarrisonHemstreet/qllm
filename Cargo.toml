@@ -1,7 +1,12 @@
 [package]
 name = "qllm"
+authors = [
+  "Harrison Hemstreet <https://github.com/HarrisonHemstreet> <HarrisonHemstreet@proton.me>",
+]
 version = "0.1.0"
 edition = "2021"
+description = "Query any LLM found on Ollama from the terminal!"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
