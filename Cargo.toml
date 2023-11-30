@@ -6,6 +6,9 @@ authors = [
 version = "0.1.0"
 edition = "2021"
 description = "Query any LLM found on Ollama from the terminal!"
+documentation = "https://github.com/HarrisonHemstreet/qllm/blob/main/README.md"
+readme = "README.md"
+homepage = "https://github.com/HarrisonHemstreet/qllm"
 license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
